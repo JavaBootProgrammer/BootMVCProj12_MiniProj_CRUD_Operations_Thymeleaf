@@ -1,17 +1,14 @@
 package com.nt.service;
 
+import java.util.List;
+
+import org.springframework.data.domain.Page;
+import org.springframework.data.domain.Pageable;
+
 import com.nt.model.Employee;
 
 public interface IEmployeeService {
 
-	public Iterable<Employee> listEmployees();
-
-	public String regiterEmployee(Employee employee);
-	
-	public Employee findByID(int id);
-	
-	public String UdpateEmployee(Employee employee);
-	
-	public String deleteEmployee(Employee employee);
+	public List<Employee> showAllEmployeesByPagination();
 
 }
