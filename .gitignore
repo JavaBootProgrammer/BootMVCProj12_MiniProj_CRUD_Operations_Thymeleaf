@@ -22,3 +22,11 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+target/BootMVCProj12_MiniProj_CRUD_Operations_Thymeleaf-0.0.1-SNAPSHOT/images/add.png
+target/BootMVCProj12_MiniProj_CRUD_Operations_Thymeleaf-0.0.1-SNAPSHOT/images/delete.png
+target/BootMVCProj12_MiniProj_CRUD_Operations_Thymeleaf-0.0.1-SNAPSHOT/images/edit.png
+target/BootMVCProj12_MiniProj_CRUD_Operations_Thymeleaf-0.0.1-SNAPSHOT/images/home.png
+target/BootMVCProj12_MiniProj_CRUD_Operations_Thymeleaf-0.0.1-SNAPSHOT/META-INF/MANIFEST.MF
+target/BootMVCProj12_MiniProj_CRUD_Operations_Thymeleaf-0.0.1-SNAPSHOT/WEB-INF/classes/application.properties
+target/BootMVCProj12_MiniProj_CRUD_Operations_Thymeleaf-0.0.1-SNAPSHOT/WEB-INF/classes/templates/home.html
+target/BootMVCProj12_MiniProj_CRUD_Operations_Thymeleaf-0.0.1-SNAPSHOT/WEB-INF/classes/templates/showReport.html
